@@ -4,8 +4,8 @@
   <info>
     <title>VMCF web style</title>
     <title-short>vmcf-web-style</title-short>
-    <id>http://www.zotero.org/styles/vmcf-web-style</id>
-    <link href="http://www.zotero.org/styles/vmcf-web-style" rel="self"/>
+    <id>https://raw.githubusercontent.com/Schebique/vmcf-konfmi/refs/heads/main/vmcf-web-style.csl</id>
+    <link href="https://raw.githubusercontent.com/Schebique/vmcf-konfmi/refs/heads/main/vmcf-web-style.csl" rel="self"/>
     <link href="http://www.zotero.org/styles/apa" rel="template"/>
     <link href="https://github.com/citation-style-language/styles/pull/3937#issuecomment-464334736" rel="documentation"/>
     <author>
